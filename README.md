@@ -4,6 +4,8 @@ You can also check out my other website at
 1 [my Softwares page](https://asmitroy.wixsite.com/softwares) or,
 2 [my Blog](https://asmitroy.wixsite.com/blog)
 
+![Image of Calculator](https://previews.123rf.com/images/faysalfarhan/faysalfarhan1601/faysalfarhan160100690/50763638-calculator-icon-glossy-purple-round-button.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
