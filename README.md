@@ -1,7 +1,5 @@
 ## Welcome to the brand new Fractional Calculator
 
-You can use the [editor on GitHub](https://github.com/Asmitroy/Fractional-Calculator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 You can also check out my other website at
 1 [my Softwares page](https://asmitroy.wixsite.com/softwares) or,
 2 [my Blog](https://asmitroy.wixsite.com/blog)
