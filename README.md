@@ -4,6 +4,8 @@ You can also check out my other website at
 1. [my Softwares page](https://asmitroy.wixsite.com/softwares) or,
 2. [my Blog](https://asmitroy.wixsite.com/blog)
 
+You can download the Fractional Calulator from the following links
+
 1. [Download Fractional Calculator ( Raw files )](https://github.com/Asmitroy/Fractional-Calculator/archive/master.zip)
 2. [Download Fractional Calculator ( Stable release )](https://github.com/Asmitroy/Fractional-Calculator/archive/v1.0.zip)
 
